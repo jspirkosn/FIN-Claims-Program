@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>5f4585102de90eae43a60490ec1feb4d8b334f85a2912fa11cd28be465b5ba8f</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>9ce7dfdb688396500d8d8bee0337334c</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_13!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_12!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_14!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_15!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_12!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_16!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>2</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_17!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_12!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_18!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>3</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_19!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_12!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_20!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>4</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_21!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_12!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_22!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>!!!table_name_0!!!</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_12!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><sys_user/><view display_value="Major Case" name="major_case">f596b3413bb30300b5c42479b3efc486</view><view_name/></sys_ui_form></record_update>]]></serialized_record>
+        <source_class>sys_ui_form</source_class>
+        <source_id>e3aecb9bfb439650625bf7704eefdcba</source_id>
+        <source_name>x_snc_claim_line_0_program_name_claim</source_name>
+        <source_sys_id>63d6df5bfb839650625bf7704eefdc50</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-17 21:50:46</sys_created_on>
+        <sys_id>0ee7d31f4f839650984f05b48e39b965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ui_form</sys_name>
+        <sys_package display_value="Claim Line of Business Template" source="x_snc_claim_line_1">d4be0f9bfb439650625bf7704eefdc86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Claim Line of Business Template">d4be0f9bfb439650625bf7704eefdc86</sys_scope>
+        <sys_update_name>sys_app_scan_payload_0ee7d31f4f839650984f05b48e39b965</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-17 21:50:46</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

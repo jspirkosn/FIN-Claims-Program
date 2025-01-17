@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_output_var">
+    <sys_app_template_output_var action="INSERT_OR_UPDATE">
+        <default/>
+        <description/>
+        <flow_output_variable display_value="app_sys_id">45be4f9bfb439650625bf7704eefdc97</flow_output_variable>
+        <label>app_sys_id</label>
+        <name>app_sys_id</name>
+        <sys_class_name>sys_app_template_output_var</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-17 21:10:33</sys_created_on>
+        <sys_id>11be4f9b854396505685aa12e59947c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>app_sys_id</sys_name>
+        <sys_package display_value="Claim Line of Business Template" source="x_snc_claim_line_1">d4be0f9bfb439650625bf7704eefdc86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Claim Line of Business Template">d4be0f9bfb439650625bf7704eefdc86</sys_scope>
+        <sys_update_name>sys_app_template_output_var_11be4f9b854396505685aa12e59947c5</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-17 21:10:33</sys_updated_on>
+        <template display_value="Claim Line of Business Template">6cbe0f9bd4439650278530b931c7130a</template>
+        <type>string</type>
+    </sys_app_template_output_var>
+</record_update>

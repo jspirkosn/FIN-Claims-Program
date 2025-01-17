@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>a320e7d3a799a2862e4e4f4840d92025824fa610568979f9dc236b7630a92703</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>9ce7dfdb688396500d8d8bee0337334c</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>log</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created>AES</ide_created><installed_as_dependency>false</installed_as_dependency><js_level>es_latest</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>!!!application_name!!!</name><package_json/><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>!!!scope_name!!!</scope><scoped_administration>false</scoped_administration><short_description>!!!short_description!!!</short_description><source>!!!scope_name!!!</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by/><sys_created_on/><sys_id>!!!app_sys_id!!!</sys_id><sys_mod_count/><sys_updated_by/><sys_updated_on/><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></serialized_record>
+        <source_class>sys_app</source_class>
+        <source_id>e3aecb9bfb439650625bf7704eefdcba</source_id>
+        <source_name/>
+        <source_sys_id>e3aecb9bfb439650625bf7704eefdcba</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-17 21:10:34</sys_created_on>
+        <sys_id>d5be8f9bce439650586c882c50104424</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sys_app</sys_name>
+        <sys_package display_value="Claim Line of Business Template" source="x_snc_claim_line_1">d4be0f9bfb439650625bf7704eefdc86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Claim Line of Business Template">d4be0f9bfb439650625bf7704eefdc86</sys_scope>
+        <sys_update_name>sys_app_scan_payload_d5be8f9bce439650586c882c50104424</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-17 21:50:41</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

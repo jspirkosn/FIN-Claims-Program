@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Personal Lines Claims" source="sn_ins_claim_pers">eef629e353301110ca92ddeeff7b122b</dependency>
+        <min_version>3.4.1</min_version>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-17 21:50:41</sys_created_on>
+        <sys_id>41e7531ffb839650625bf7704eefdcb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Claim Line of Business Template" source="x_snc_claim_line_1">d4be0f9bfb439650625bf7704eefdc86</sys_package>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-17 21:50:41</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
