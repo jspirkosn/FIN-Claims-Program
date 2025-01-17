@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_input_var">
+    <sys_app_template_input_var action="INSERT_OR_UPDATE">
+        <default>9ce7dfdb688396500d8d8bee0337334c</default>
+        <description>Scan ID of the Payload &amp; Map scan</description>
+        <flow_input_variable display_value="Scan ID">fcbe4f9bfb439650625bf7704eefdc19</flow_input_variable>
+        <label>Scan ID</label>
+        <mandatory>true</mandatory>
+        <name>scan_id</name>
+        <sys_class_name>sys_app_template_input_var</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-17 21:10:33</sys_created_on>
+        <sys_id>15be4f9b13439650ce67eda6d904e7c8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>scan_id</sys_name>
+        <sys_package display_value="Claim Line of Business Template" source="x_snc_claim_line_1">d4be0f9bfb439650625bf7704eefdc86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Claim Line of Business Template">d4be0f9bfb439650625bf7704eefdc86</sys_scope>
+        <sys_update_name>sys_app_template_input_var_15be4f9b13439650ce67eda6d904e7c8</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-17 21:51:21</sys_updated_on>
+        <template display_value="Claim Line of Business Template">6cbe0f9bd4439650278530b931c7130a</template>
+        <type>string</type>
+    </sys_app_template_input_var>
+</record_update>

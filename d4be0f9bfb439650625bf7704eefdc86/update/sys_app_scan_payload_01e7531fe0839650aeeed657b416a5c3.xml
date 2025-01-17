@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>b10b43e8ddf0ef68ee78990d70a72a5fd6da6b4dc9619054b74e05adfb86a34d</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>9ce7dfdb688396500d8d8bee0337334c</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><database><element active="1" array="0" attributes="timeFromCreateToActivate=4000" audit="0" calculation="" choice="0" choice_field="" choice_table="" create_roles="" default_value="" delete_roles="" dependent="" dependent_on_field="" display="number" dynamic_creation="0" dynamic_creation_script="" dynamic_default_value="" dynamic_ref_qual="" element_reference="0" extends="sn_ins_claim_pers_base" filterable="1" foreign_database="" function_definition="" function_field="0" groupable="1" help="" hint="Defines and manages Customer Service cases" i18n_sortable="1" internal_type="collection" label="{program name} Claim" language="en" mandatory="0" matchable="1" max_length="40" multi_text="0" name="!!!table_name_0!!!" plural="{program name} Claims" primary="0" read_only="0" read_roles="" reference="" reference_cascade_rule="" reference_floats="0" reference_key="" reference_qual="" reference_qual_condition="" reference_type="" sizeclass="-1" sortable="1" spell_check="0" staged="0" sys_package="e3aecb9bfb439650625bf7704eefdcba" sys_scope="e3aecb9bfb439650625bf7704eefdcba" table_reference="0" text_index="0" type="0" type_description="collection" unique="0" url="" url_target="" use_dynamic_default="0" use_reference_qualifier="simple" virtual="0" widget="" write_roles="" xml_view="0"/></database>]]></serialized_record>
+        <source_class>sys_db_object</source_class>
+        <source_id>e3aecb9bfb439650625bf7704eefdcba</source_id>
+        <source_name>{program name} Claim</source_name>
+        <source_sys_id>12d65f5bfb839650625bf7704eefdc91</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-17 21:50:41</sys_created_on>
+        <sys_id>01e7531fe0839650aeeed657b416a5c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_db_object</sys_name>
+        <sys_package display_value="Claim Line of Business Template" source="x_snc_claim_line_1">d4be0f9bfb439650625bf7704eefdc86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Claim Line of Business Template">d4be0f9bfb439650625bf7704eefdc86</sys_scope>
+        <sys_update_name>sys_app_scan_payload_01e7531fe0839650aeeed657b416a5c3</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-17 21:50:41</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

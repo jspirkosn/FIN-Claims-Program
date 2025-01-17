@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>ae93722b46659584db94101c8acaa61ff26e5e00327931b2d6f7ec65c9a58e70</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>9ce7dfdb688396500d8d8bee0337334c</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_35!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_34!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_36!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_37!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_34!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_38!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>2</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_39!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_34!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_40!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>3</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_41!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_34!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_42!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>!!!table_name_0!!!</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_34!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_form></record_update>]]></serialized_record>
+        <source_class>sys_ui_form</source_class>
+        <source_id>e3aecb9bfb439650625bf7704eefdcba</source_id>
+        <source_name>x_snc_claim_line_0_program_name_claim</source_name>
+        <source_sys_id>afd6df5bfb839650625bf7704eefdc09</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-17 21:50:47</sys_created_on>
+        <sys_id>2ee7d31fb48396502e57cba0c151b2f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ui_form</sys_name>
+        <sys_package display_value="Claim Line of Business Template" source="x_snc_claim_line_1">d4be0f9bfb439650625bf7704eefdc86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Claim Line of Business Template">d4be0f9bfb439650625bf7704eefdc86</sys_scope>
+        <sys_update_name>sys_app_scan_payload_2ee7d31fb48396502e57cba0c151b2f0</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-17 21:50:47</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>
